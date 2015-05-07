@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Egoitz\Dropbox\universidad\TFG\workspace\RuleTheWorld\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-3a116a38794860eef0b1666d87e08987fdeeb871.jar"
+        jar="C:\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Egoitz\Dropbox\universidad\TFG\workspace\RuleTheWorld\app\build\intermediates\pre-dexed\debug\classes-bfb3b991f410b916f85310e14118de03779b69b5.jar"
+        jar="C:\Users\Egoitz\Dropbox\universidad\TFG\workspace\RuleTheWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Egoitz\Dropbox\universidad\TFG\workspace\RuleTheWorld\app\build\intermediates\pre-dexed\debug\classes-f967e91da62d50e389cdb562dc9c4e1e4f770a5d.jar"
+        jar="C:\Users\Egoitz\Dropbox\universidad\TFG\workspace\RuleTheWorld\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.4.52\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+
+</pre-dex-items>

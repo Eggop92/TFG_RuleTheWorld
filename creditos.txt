@@ -1,0 +1,11 @@
+Proyecto Rule the world.
+
+Proyecto para el trabajo de fin de grado en ingeniería informática de gestión y sistemas de información de la escuela universitaria de ingeniería técnica industrial de Bilbao.
+
+Lenguajes:
+Andorid
+PHP
+MySQL
+
+Autores:
+Egoitz Puerta

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rule The World</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_mapa">Mapa</string>
+    <string name="title_inventario">Inventario</string>
+    <string name="title_equipo">Equipo</string>
+    <string name="title_laboratorio">Laboratorio</string>
+    <string name="title_combate">Arena</string>
+    <string name="title_amigos">Amigos</string>
+    <string name="title_anadirAmigo">Añadir amigos</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_objeto_detail">Descripción objeto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="botonTirar">Tirar</string>
+    <string name="txtCantidad">Cantidad</string>
+    <string name="casco">casco</string>
+    <string name="pecho">pecho</string>
+    <string name="piernas">piernas</string>
+    <string name="pies">pies</string>
+    <string name="arma">arma</string>
+    <string name="noEquipado">No Equipado</string>
+    <string name="ingrediente1_labo">Ingrediente 1:</string>
+    <string name="ingrediente2_labo">Ingrediente 2:</string>
+    <string name="resultado_labo">Resultado:</string>
+    <string name="vacio_labo">No seleccionado</string>
+    <string name="desconocido_labo">¿?</string>
+    <string name="nivel">Nivel:</string>
+    <string name="experiencia">Experiencia</string>
+    <string name="title_activity_login">Identificación</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Desconectar">Desconectar</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="Enviar">Enviar</string>
+    <string name="alias">Alias</string>
+    <string name="buscar_amigos">Buscar nuevos amigos</string>
+    <string name="combate_inicio_boton">Iniciar Combate</string>
+    <string name="combate_text_atacar">Atacar</string>
+    <string name="combate_text_defender">Defenderse</string>
+    <string name="combate_text_rendirse">Rendirse</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="ayuda_mapa">Camina a tu alrededor. Busca y encuentra los puntos señalados en el mapa, contienen interesantes objetos que podrás usar en otras secciones. Ademas, por cada encuentro se te otorgarán 10 puntos de experiencia.
+    Si se acaban los puntos o caminas fuera del radio de acción, el radar buscará otros puntos automáticamente.</string>
+    <string name="ayuda_inventario">Aquí puedes ver todos los objetos que has ido encontrando y la cantidad. Si pulsas sobre uno de ellos, podras ver que caracteristicas tiene.</string>
+    <string name="ayuda_equipo">En el equipo puedes ver tus estadisticas, ademas de los objetos que tienes equipados.
+    Si quieres cambiar un objetos, pulsa sobre el icono que quieras cambiar y selecciona un objeto de la lista.
+    Hay objetos que pueden mejorar las estadisticas y otros empeorarlas, estudialos todos en la sección de inventario.</string>
+    <string name="ayuda_laboratorio">En el laboratorio se permite combinar dos objetos para crear uno nuevo.
+    Prueba diferentes combinaciones. También puedes descomponer un objeto, igual sale algo interesante.
+    La combinación es la misma aunque las posiciones de los ingredientes esten invertidas.
+    Además, si realizas combinaciones exitosas obtendrás puntos de experiencia.</string>
+    <string name="ayuda_arena">Pulsa sobre iniciar combate para que salga un enemigo aleatorio. Debes de derrotar a este enemigo con lo que lleves equipado.
+    Puedes usar las acciones de abajo para derrotarle. Atacar inflingira daño al enemigo y defender hara que tu defensa incremente el doble durante ese turno.
+    También puedes rendirte. Un soldado vivo vale mas que un soldado muerto.
+    Además obtendrás experiencia dependiendo de tu éxito en la batalla.</string>
+    <string name="ayuda_amigos">Busca a tus amigos con el botón de Nuevo Amigo. Luego puedes decirle que le dejas un objeto en el sitio en el que te encuentras. Él podrá ir y recogerlo.</string>
+    <string name="ayuda_error">ayuda_error</string>
+    <string name="ok">ok</string>
+
+
+</resources>
